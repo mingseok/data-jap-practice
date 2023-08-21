@@ -5,5 +5,4 @@ import study.datajap.entity.Team;
 
 public interface TeamRepository extends CrudRepository<Team, Long> {
 
-
 }

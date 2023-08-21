@@ -31,5 +31,4 @@ public class BaseEntity {
 
     @LastModifiedBy
     private String lastModifiedBy; // 마지막으로 수정한 사람
-
 }
